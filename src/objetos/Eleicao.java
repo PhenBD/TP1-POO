@@ -98,7 +98,7 @@ public class Eleicao {
     }
 
     public void candidatosNaoEleitosMasSeriamMajoritariamente(){
-        System.out.println("Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos::");
+        System.out.println("Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:");
         System.out.println("(com sua posição no ranking de mais votados)");
 
         int colocacao = 1;
