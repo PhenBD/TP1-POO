@@ -50,7 +50,7 @@ public class Eleicao {
         if(this.cargo.equals("--federal")){
             System.out.println("Deputados federais eleitos:");
         }
-        else if(this.cargo.equals("--estudual")){
+        else if(this.cargo.equals("--estadual")){
             System.out.println("Deputados estaduais eleitos:");
         }
 
